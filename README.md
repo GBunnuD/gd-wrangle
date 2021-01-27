@@ -14,7 +14,7 @@
 
 ## Submission:
 
-* Name of the Play Assigned: SCENE I. Britain. The garden of Cymbeline's palace.
+* Name of the Play Assigned: Cymbeline
 * Speaker 1: QUEEN
 * Speaker 2: CYMBELINE
 * Question: We had to find which speaker spoke the most is the play.
