@@ -18,11 +18,7 @@
 * Speaker 1: QUEEN
 * Speaker 2: CYMBELINE
 * Question: We had to find which speaker spoke the most is the play.
-
-<br>
-
-
-### [Commands used:](https://github.com/GD-Prasad/gd-wrangle/blob/main/commands.txt)
+#### [Commands used:](https://github.com/GD-Prasad/gd-wrangle/blob/main/commands.txt)
 * To copy/ download the File:``` powershell curl "http://shakespeare.mit.edu/cymbeline/full.html" -O "data.txt" ```
 * To count the number of times speaker spoke and put it to a file ``` bash grep -c "Queen" data.txt > resultSpeaker_1.txt ```
 * To count the number of times speaker 1 spoke and put it to a file: ``` bash grep -c "CYMBELINE" data.txt > resultSpeaker_2.txt ```
