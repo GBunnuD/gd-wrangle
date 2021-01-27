@@ -3,7 +3,7 @@
 
 <br>
 
-## [inputfile](https://github.com/GD-Prasad/gd-wrangle/blob/main/data.txt)
+* [Input file](https://github.com/GD-Prasad/gd-wrangle/blob/main/data.txt)
 
 <br>
 
